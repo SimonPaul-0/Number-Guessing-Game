@@ -26,8 +26,8 @@ Welcome to the Number Guessing Game implemented in JavaScript! Try to guess the 
 
 ## Gameplay
 
-- The program will generate a random number between the specified lower and upper limits.**(custom.js)**
-- The program will generate a random number between 1 and 100.**(file.js)**
+- The program will generate a random number between the specified lower and upper limits. **(custom.js)**
+- The program will generate a random number between 1 and 100. **(file.js)**
 - You have a limited number of attempts to guess the correct number.
 - After each guess, the program provides feedback on whether your guess is too high, too low, or correct.
 
